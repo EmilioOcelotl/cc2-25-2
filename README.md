@@ -4,7 +4,7 @@ Al finalizar el curso el alumno: Aplicará conocimientos de programación estruc
 
 ## Sesiones
 
-- [] [Sesión 01](./s01/s01.md) 10.02.25 - Introducción a la programación. 
+- [ ] [Sesión 01](./s01/s01.md) 10.02.25 - Introducción a la programación. 
 
 ## Enlaces
 
